@@ -11,7 +11,7 @@
 
 ## Installation
 
-`$ git clone https://github.com/Vilocer/night-bot`
+`$ git clone https://github.com/Vilocer/night-bot.git`
 
 `$ apt install python3 python3-venv python3-pip`
 
@@ -37,7 +37,7 @@
 
 ### Unix
 
-`$ ./bin/start_gunicorn.sh` - to start prod. djangk serve
+`$ ./bin/start_gunicorn.sh` - to start prod. django server
 
 `$ pipenv run python web/manage.py runserver` - to start dev. django server
 
