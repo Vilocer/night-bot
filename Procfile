@@ -1,3 +1,3 @@
 web: cd web && gunicorn config.wsgi
-bot: python bot/bot.py
+bot: pipenv run python bot/bot.py
 
