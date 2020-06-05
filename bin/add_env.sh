@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "This is a script to write env variables to .env file for pipenv"
+
 read -p "Django Secret Key: " django_secret_key
 read -p "Django Debug: " django_debug
 read -p "Django Allowed Host: " allowed_hosts
