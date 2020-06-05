@@ -8,6 +8,8 @@
   <br>
 </div>
 
+### Warning
+- This is a chat bot for promotion in vk.com, as well as a simple web service. This bot is made with the aim of showing that gaining activity on a page is very simple and free. It is based on interaction with popular communities on the promotion of pages and is implemented on requests and vk_api. P. S. Much of what he does is prohibited by the VK rules, you use it at your own fear and risk getting ban on your page.
 
 ## Installation
 
