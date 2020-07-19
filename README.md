@@ -13,7 +13,7 @@
 
 ## Installation
 
-`$ git clone https://github.com/Vilocer/night-bot.git`
+`$ git clone https://github.com/Vilocer/night-bot.git && cd night-bot`
 
 `$ apt install python3 python3-venv python3-pip`
 
