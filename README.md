@@ -17,7 +17,7 @@
 
 `$ sudo apt install -y python3 python3-venv python3-pip`
 
-`$ python3 -m pip install pipenv && pipenv install`
+`$ python3 -m pip install pipenv && python3 -m pipenv install`
 
 `$ chmod +x bin/*.sh`
 
